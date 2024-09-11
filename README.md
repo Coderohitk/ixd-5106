@@ -1,3 +1,3 @@
 # ixd-5106
 
-1st folder
+THis is for the interaction design class
