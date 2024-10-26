@@ -11,7 +11,7 @@ Students will be introduced to design tools, processes, and best practices as th
 https://www.youtube.com/watch?v=ezldKx-jPag
 
 # Images
-![Figma Interface](figma.png)
+![Figma Interface](Figma.png)
 
 ***Important Notice:*** This repository contains my weekly work for this course. Familiarizing yourself with Figma is essential for creating effective user-centered designs.
 
